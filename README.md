@@ -1,6 +1,5 @@
 # Week-2-Day-2
 Optimized Content Samples
-Here's a detailed *before and after comparison* of optimized content based on the guide you provided. I'll show how to improve content for SEO and user experience by applying optimization techniques.
 
 ### *Before Optimization:*
 ---
